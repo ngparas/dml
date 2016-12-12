@@ -8,7 +8,7 @@ Depends:
 Imports:
     lfda
 Suggests: testthat
-Author: Yuan Tang <terrytangyuan@gmail.com>, Gao Tao <joegaotao@gmail.com>, Xiao Nan <road2stat@gmail.com>, NickParas <nickgp@gmail.com>
+Author: Yuan Tang <terrytangyuan@gmail.com>, Gao Tao <joegaotao@gmail.com>, Xiao Nan <road2stat@gmail.com>, Nick Paras <nickgp@gmail.com>
 Maintainer: Yuan Tang <terrytangyuan@gmail.com>
 License: MIT + file LICENSE
 URL: https://github.com/terrytangyuan/dml
